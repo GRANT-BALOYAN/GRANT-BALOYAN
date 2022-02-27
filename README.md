@@ -1,5 +1,4 @@
-# Grant Baloyan
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2361CE70&size=30&lines=Web+Designer;%D0%A1%2B%2B+Developer;3D+Designer;UX%2FUI+Designer;Freelancer)](https://git.io/typing-svg)
+# Grant Baloyan [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2361CE70&size=30&center=true&lines=Web+Designer;%D0%A1%2B%2B+Developer;3D+Designer;UX%2FUI+Designer;Freelancer)](https://git.io/typing-svg)
 <h3>Я занимаюсь разработкой web-проектов уже много лет. Специализируюсь на разработке решений различного уровня сложности: от простых лендингов до корпоративных сайтов и масштабных сервисов. У меня есть богатый опыт в дизайне и создании веб-сайтов, а также я хорошо разбираюсь в разработке игр и приложений для Android и Windows, умею создавать 3D модели, а также могу нарисовать тебе логотип на любой вкус. </h3>
 
 <p align="center">
