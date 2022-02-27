@@ -11,5 +11,5 @@
 
 |Навыки|Услуги|
 |-|-|
-|<img style="height:600px;" src="http://grant.uxp.ru/github/1.png" />|<img style="height:600px;" src="http://grant.uxp.ru/github/4.png" />
+|<img style="height:600px;" src="http://grant.uxp.ru/github/11.png" />|<img style="height:600px;" src="http://grant.uxp.ru/github/12.png" />
 ***
